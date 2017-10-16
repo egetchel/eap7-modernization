@@ -1,10 +1,10 @@
-= Modernize your Java EE applications with JBoss EAP 7 - Red Hat Middleware Workshop
+﻿= Modernize your Java EE applications with JBoss EAP 7 - Red Hat Middleware Workshop
 Thomas Qvarnstrom <tqvarnst@redhat.com>; Marc Zottner <mzottner@redhat.com>; James Falkner <jfalkner@redhat.com>
 
 :sectnums!:
 :toc: left
-:revnumber: 0.6
-:revdate: 2016-07-15
+:revnumber: 0.7
+:revdate: 2017-10-05
 
 This repository is the used to develop the a workshop for modernizing apps with JBoss EAP 7 and Java EE 7. The main authors of _{doctitle}_ are *{author}*, Red Hat, *{author_2}* and *{author_3}*, Red Hat and the current version ({revnumber}) was last updated on {revdate}.
 

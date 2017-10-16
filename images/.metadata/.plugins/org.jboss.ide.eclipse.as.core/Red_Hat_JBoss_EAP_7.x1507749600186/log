@@ -1,0 +1,13 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-10-13 14:04:24.667
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-10-13 14:04:28.492
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-10-13 14:04:28.532
+!MESSAGE Module jboss-kitchensink-angularjs on Red Hat JBoss EAP 7.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-10-14 09:25:07.661
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 

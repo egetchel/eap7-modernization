@@ -78,7 +78,9 @@ Using the LiveReload feature of JBoss Developer Studio we can do most of the dep
 +
 NOTE: Not all changes can be deployed using the LiveReload features, but periodically one will have to do Incremental or Full publish. However something like 9 out of 10 deployments are done with LiveReload it still saves a lot of time for the developers.
 +
-To enable LiveReload one all one have to do is to right click on the deployed application in the server view and select `Show In -> Web Browser via LiveReload Server`
+To enable LiveReload, from the Servers tab, right-click on the deployed application in the server view and select `Show In -> Web Browser via LiveReload Server`
++
+NOTE: Make sure you right-click on the jboss-kitchensink-angularjs Project, not the Server itself.  You may need to expand the Server to see the Project.
 +
 image::images/02_11_live_reload.png["",600]
 +
